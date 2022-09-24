@@ -1,0 +1,14 @@
+.Login{
+    width: 200px;
+    margin: 0 auto;
+    padding-top: 150px;
+}
+h1, h2 , h3 , h4 , h5{
+    color: black !important;
+}
+#email, #password{
+    border: 1px solid black;
+}
+#password{
+    margin-bottom: 50px;
+}
